@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=chandj
+POSTGRES_USER=vQUthyNOOJYmQwfZwTAtcebUOQTdrojj
+POSTGRES_PASSWORD=o4EugSWUnyRDjQyOXa18CYBMdLXRsrrNJx8LKK6qCYi1K3KwDP4vecGsNjWqSkMn
